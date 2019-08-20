@@ -1,0 +1,19 @@
+{
+  "name": "node-file-system",
+  "version": "1.0.0",
+  "description": "Definitive guide for the Node.js File System module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onildof/node-file-system.git"
+  },
+  "author": "Onildo Luciano de Souza Ferraz Filho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onildof/node-file-system/issues"
+  },
+  "homepage": "https://github.com/onildof/node-file-system#readme"
+}
